@@ -13,7 +13,7 @@ El ejemplo del chatBot esta creado con RECAST.AI y el [SDK Node Recast.ai](https
 
 ** Ademas estoy pensado en agregar un modulo de autoaprendizaje del bot para ver como se comporta.
 
-Si quieren ver la demo del bot puede entrar a testing de ejemplo [IR A DEMO](lnavarro.cl:3000)
+Si quieren ver la demo del bot puede entrar a testing de ejemplo [IR A DEMO](http://lnavarro.cl:3000)
 
 ## CODIGO --- > Ver 1.0
 
