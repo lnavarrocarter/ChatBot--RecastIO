@@ -1,7 +1,7 @@
 # chatbotRecastai
 ChatBot Recastai &amp; socketio
 
-#INSTALACION
+# INSTALACION
 
 1. Realizar un clone del repositorio.
 2. Ejecutar el comando `$npm install -save`
@@ -11,7 +11,7 @@ ChatBot Recastai &amp; socketio
 
 El ejemplo del chatBot esta creado con RECAST.AI y el [SDK Node Recast.ai](https://github.com/RecastAI/SDK-NodeJS) y [Socket.io](https://github.com/socketio/socket.io/) es solo la version 1, la idea es agregar conexión con base de datos y API adicionales.
 
-** Ademas estoy pensado en agregar un modulo de autoaprendizaje del bot para ver como se comporta.
+**Ademas estoy pensado en agregar un modulo de autoaprendizaje del bot para ver como se comporta.
 
 Si quieren ver la demo del bot puede entrar a testing de ejemplo [IR A DEMO](http://lnavarro.cl:3000)
 
@@ -67,7 +67,7 @@ Ademas para realizar el request de las "intenciones" configuradas en el AI se ut
 
 Para saber las intenciones y las respuestas que necesito realizo un case y luego en un objeto coloco las respuestas que necesito dependiendo de la intencion.
 
-** Aqui un ejemplo cuando la intencion es saludar al bot.
+**Aqui un ejemplo cuando la intencion es saludar al bot.
 
 ``` [Javascript]
 function RespuestaPredefinidas(intents,res){
