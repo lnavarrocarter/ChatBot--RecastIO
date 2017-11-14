@@ -1,0 +1,9 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "Chat Teleton Ejemplo con recast.io",
+  "dependencies": {
+    "express": "^4.15.2",
+    "recastai": "^3.6.0"
+  }
+}
